@@ -67,10 +67,7 @@ export default function Projects() {
     <>
       <ProjectStyle>
         <div className="container">
-          <SectionTitle
-            heading="Projects"
-            subheading="some of my recent works"
-          />
+          <SectionTitle subheading="Works done by me" heading="Projects" />
           <div className="projects__searchBar">
             <form>
               <input
